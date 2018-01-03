@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: 'Test Server',
+    name: 'Server Git Connected',
     script: './index.js'
   }],
   deploy: {
